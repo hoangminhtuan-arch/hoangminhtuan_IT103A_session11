@@ -35,7 +35,8 @@ nav a{
     justify-content: center;
     align-items: center;
     gap: 20px;
-    height: 100vh;
+    margin-bottom: 50px;
+    margin-top: 20px;
 }
 h2{
     display: flex;
@@ -62,7 +63,7 @@ img{
     background-color: #fff9f5;
     height: 300px;
     border-radius: 10px;
-    
+
 }
 footer{
     display: flex;
